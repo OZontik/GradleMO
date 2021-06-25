@@ -1,0 +1,5 @@
+rootProject.name = 'GradleMO'
+include 'service'
+include 'api'
+include 'db'
+
